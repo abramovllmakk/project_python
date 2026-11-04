@@ -1,0 +1,230 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Алексей",
+      "region": "Москва"
+    },
+    {
+      "id": 2,
+      "name": "Мария",
+      "region": "Москва"
+    },
+    {
+      "id": 3,
+      "name": "Илья",
+      "region": "Москва"
+    },
+    {
+      "id": 4,
+      "name": "Анна",
+      "region": "Москва"
+    },
+    {
+      "id": 5,
+      "name": "Денис",
+      "region": "Свердловская область"
+    },
+    {
+      "id": 6,
+      "name": "Ольга",
+      "region": "Свердловская область"
+    },
+    {
+      "id": 7,
+      "name": "Павел",
+      "region": "Свердловская область"
+    },
+    {
+      "id": 8,
+      "name": "Нина",
+      "region": "Свердловская область"
+    },
+    {
+      "id": 9,
+      "name": "Тимур",
+      "region": "Республика Татарстан"
+    },
+    {
+      "id": 10,
+      "name": "Алина",
+      "region": "Республика Татарстан"
+    },
+    {
+      "id": 11,
+      "name": "Роман",
+      "region": "Республика Татарстан"
+    },
+    {
+      "id": 12,
+      "name": "Елена",
+      "region": "Республика Татарстан"
+    },
+    {
+      "id": 13,
+      "name": "Руслан",
+      "region": "Республика Башкортостан"
+    },
+    {
+      "id": 14,
+      "name": "Гульназ",
+      "region": "Республика Башкортостан"
+    },
+    {
+      "id": 15,
+      "name": "Артур",
+      "region": "Республика Башкортостан"
+    },
+    {
+      "id": 16,
+      "name": "Камиль",
+      "region": "Республика Башкортостан"
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "owner_id": 1,
+      "brand": "Kia",
+      "model": "Rio",
+      "year": 2018,
+      "probeg_km": 105000,
+      "price_car": 1150000
+    },
+    {
+      "id": 2,
+      "owner_id": 2,
+      "brand": "Hyundai",
+      "model": "Solaris",
+      "year": 2020,
+      "probeg_km": 74000,
+      "price_car": 1350000
+    },
+    {
+      "id": 3,
+      "owner_id": 3,
+      "brand": "Skoda",
+      "model": "Rapid",
+      "year": 2019,
+      "probeg_km": 96000,
+      "price_car": 1280000
+    },
+    {
+      "id": 4,
+      "owner_id": 4,
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "year": 2019,
+      "probeg_km": 89000,
+      "price_car": 1280000
+    },
+    {
+      "id": 5,
+      "owner_id": 5,
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2017,
+      "probeg_km": 142000,
+      "price_car": 2050000
+    },
+    {
+      "id": 6,
+      "owner_id": 6,
+      "brand": "Mazda",
+      "model": "6",
+      "year": 2016,
+      "probeg_km": 154000,
+      "price_car": 1750000
+    },
+    {
+      "id": 7,
+      "owner_id": 7,
+      "brand": "Lada",
+      "model": "Vesta",
+      "year": 2021,
+      "probeg_km": 62000,
+      "price_car": 1050000
+    },
+    {
+      "id": 8,
+      "owner_id": 8,
+      "brand": "Renault",
+      "model": "Logan",
+      "year": 2020,
+      "probeg_km": 81000,
+      "price_car": 920000
+    },
+    {
+      "id": 9,
+      "owner_id": 9,
+      "brand": "Renault",
+      "model": "Duster",
+      "year": 2018,
+      "probeg_km": 112000,
+      "price_car": 1420000
+    },
+    {
+      "id": 10,
+      "owner_id": 10,
+      "brand": "Hyundai",
+      "model": "Creta",
+      "year": 2019,
+      "probeg_km": 87000,
+      "price_car": 1650000
+    },
+    {
+      "id": 11,
+      "owner_id": 11,
+      "brand": "Lada",
+      "model": "Granta",
+      "year": 2022,
+      "probeg_km": 48000,
+      "price_car": 780000
+    },
+    {
+      "id": 12,
+      "owner_id": 12,
+      "brand": "Kia",
+      "model": "Rio",
+      "year": 2017,
+      "probeg_km": 126000,
+      "price_car": 990000
+    },
+    {
+      "id": 13,
+      "owner_id": 13,
+      "brand": "Lada",
+      "model": "Vesta",
+      "year": 2020,
+      "probeg_km": 83000,
+      "price_car": 980000
+    },
+    {
+      "id": 14,
+      "owner_id": 14,
+      "brand": "Kia",
+      "model": "Rio",
+      "year": 2019,
+      "probeg_km": 91000,
+      "price_car": 1190000
+    },
+    {
+      "id": 15,
+      "owner_id": 15,
+      "brand": "Suzuki",
+      "model": "Grand Vitara",
+      "year": 2012,
+      "probeg_km": 168000,
+      "price_car": 1260000
+    },
+    {
+      "id": 16,
+      "owner_id": 16,
+      "brand": "BMW",
+      "model": "M540i",
+      "year": 2020,
+      "probeg_km": 72000,
+      "price_car": 4650000
+    }
+  ]
+}
